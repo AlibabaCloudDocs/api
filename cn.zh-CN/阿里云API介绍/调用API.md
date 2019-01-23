@@ -70,7 +70,7 @@ GET /clusters/C5b5e80b0b64a4bf6939d2d8fbbc5ded7 HTTP/1.1
 
     OpenAPI Explorer是一款网页版、可视化的API调用工具。您可以在OpenAPI Explorer中调用阿里云各云产品开放的API，查看API请求和返回结果。此外，OpenAPI Explorer会自动生成相应API的SDK调用示例，帮助您使用阿里云API。更多详细信息，请参见[阿里云OpenAPI Explorer使用指南](../../../../../cn.zh-CN/什么是OpenAPI Explorer/什么是OpenAPI Explorer.md#)。
 
-    访问地址：[https://api.aliyun.com](https://api.aliyun.com/)
+    访问地址：[https://api.aliyun.com](https://api.aliyun.com/)。
 
 -   阿里云CLI
 
